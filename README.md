@@ -1,5 +1,6 @@
 # MTVglobal
 
+<!--
 Property of:
 ███╗   ███╗████████╗██╗   ██╗ ██████╗ ██╗      ██████╗ ██████╗  █████╗ ██╗     
 ████╗ ████║╚══██╔══╝██║   ██║██╔════╝ ██║     ██╔═══██╗██╔══██╗██╔══██╗██║     
@@ -8,5 +9,6 @@ Property of:
 ██║ ╚═╝ ██║   ██║    ╚████╔╝ ╚██████╔╝███████╗╚██████╔╝██████╔╝██║  ██║███████╗
 ╚═╝     ╚═╝   ╚═╝     ╚═══╝   ╚═════╝ ╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
 Site by Mary Rachel Kostreva & Jenny Yoo
+-->
 
 MTVglobal is a lifestyle, an adeventure into overly charted territory, a mystery gone wild.
